@@ -1,6 +1,6 @@
 library(corrplot)
 library(h2o)
-setwd("/Users/marceloalleo/Dataset Volvo - Fuel Consumption")
+setwd("/Users/marceloalleo/Dataset FE")
 
 ################################################################################
 ################################### OLS ########################################
